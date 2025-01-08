@@ -1,4 +1,4 @@
-# samsung-risc-v
+
 # samsung-riscv
 ##  Basic Details
 
